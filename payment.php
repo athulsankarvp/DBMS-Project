@@ -14,7 +14,7 @@ $balance = $car['credits'];
 //  Promo code 
 if(isset($_POST['promo_submit'])){
     
-    if($_POST['user_promo'] == "ajay"){
+    if($_POST['user_promo'] == "athul"){
         $_SESSION['totalcost']-=100;
         $promo_error="";
         $promo_flag="set";

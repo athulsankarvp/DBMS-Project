@@ -18,18 +18,18 @@
            
         
     }
-    $ajay='';
+    $athul='';
     for($i=0;$i<count($bookedSeat);$i++){
-        $ajay = $ajay . $bookedSeat[$i] . ",";
+        $athul = $athul . $bookedSeat[$i] . ",";
         }
 
-    $ajaycomma = explode(",",$ajay);
+    $athulcomma = explode(",",$athul);
     
         
-    function checkme($seatidd,$ajaycomma){
+    function checkme($seatidd,$athulcomma){
         $disabled='';
         
-          foreach($ajaycomma as $m){
+          foreach($athulcomma as $m){
               
             if($seatidd == $m)
             {

@@ -94,135 +94,135 @@ if(!isset($_SESSION['user']))
 
                            <tr>
                                <td>A</td>
-                               <td><input type="checkbox" name="seats[]" value="A-01" <?php checkme("A-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-02" <?php checkme("A-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-03" <?php checkme("A-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-04" <?php checkme("A-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-05" <?php checkme("A-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-06" <?php checkme("A-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-07" <?php checkme("A-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-08" <?php checkme("A-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-09" <?php checkme("A-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="A-10" <?php checkme("A-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-01" <?php checkme("A-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-02" <?php checkme("A-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-03" <?php checkme("A-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-04" <?php checkme("A-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-05" <?php checkme("A-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-06" <?php checkme("A-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-07" <?php checkme("A-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-08" <?php checkme("A-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-09" <?php checkme("A-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="A-10" <?php checkme("A-10",$athulcomma); ?>></td>
                                
                               
                            </tr>
                            <tr>
                                <td>B</td>
-                               <td><input type="checkbox" name="seats[]" value="B-01" <?php checkme("B-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-02" <?php checkme("B-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-03" <?php checkme("B-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-04" <?php checkme("B-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-05" <?php checkme("B-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-06" <?php checkme("B-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-07" <?php checkme("B-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-08" <?php checkme("B-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-09" <?php checkme("B-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="B-10" <?php checkme("B-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-01" <?php checkme("B-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-02" <?php checkme("B-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-03" <?php checkme("B-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-04" <?php checkme("B-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-05" <?php checkme("B-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-06" <?php checkme("B-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-07" <?php checkme("B-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-08" <?php checkme("B-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-09" <?php checkme("B-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="B-10" <?php checkme("B-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>C</td>
-                               <td><input type="checkbox" name="seats[]" value="C-01" <?php checkme("C-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-02" <?php checkme("C-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-03" <?php checkme("C-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-04" <?php checkme("C-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-05" <?php checkme("C-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-06" <?php checkme("C-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-07" <?php checkme("C-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-08" <?php checkme("C-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-09" <?php checkme("C-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="C-10" <?php checkme("C-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-01" <?php checkme("C-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-02" <?php checkme("C-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-03" <?php checkme("C-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-04" <?php checkme("C-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-05" <?php checkme("C-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-06" <?php checkme("C-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-07" <?php checkme("C-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-08" <?php checkme("C-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-09" <?php checkme("C-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="C-10" <?php checkme("C-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>D</td>
-                               <td><input type="checkbox" name="seats[]" value="D-01" <?php checkme("D-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-02" <?php checkme("D-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-03" <?php checkme("D-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-04" <?php checkme("D-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-05" <?php checkme("D-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-06" <?php checkme("D-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-07" <?php checkme("D-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-08" <?php checkme("D-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-09" <?php checkme("D-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="D-10" <?php checkme("D-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-01" <?php checkme("D-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-02" <?php checkme("D-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-03" <?php checkme("D-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-04" <?php checkme("D-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-05" <?php checkme("D-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-06" <?php checkme("D-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-07" <?php checkme("D-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-08" <?php checkme("D-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-09" <?php checkme("D-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="D-10" <?php checkme("D-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>E</td>
-                               <td><input type="checkbox" name="seats[]" value="E-01" <?php checkme("E-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-02" <?php checkme("E-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-03" <?php checkme("E-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-04" <?php checkme("E-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-05" <?php checkme("E-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-06" <?php checkme("E-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-07" <?php checkme("E-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-08" <?php checkme("E-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-09" <?php checkme("E-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="E-10" <?php checkme("E-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-01" <?php checkme("E-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-02" <?php checkme("E-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-03" <?php checkme("E-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-04" <?php checkme("E-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-05" <?php checkme("E-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-06" <?php checkme("E-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-07" <?php checkme("E-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-08" <?php checkme("E-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-09" <?php checkme("E-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="E-10" <?php checkme("E-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>F</td>
-                               <td><input type="checkbox" name="seats[]" value="F-01" <?php checkme("F-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-02" <?php checkme("F-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-03" <?php checkme("F-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-04" <?php checkme("F-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-05" <?php checkme("F-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-06" <?php checkme("F-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-07" <?php checkme("F-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-08" <?php checkme("F-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-09" <?php checkme("F-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="F-10" <?php checkme("F-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-01" <?php checkme("F-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-02" <?php checkme("F-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-03" <?php checkme("F-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-04" <?php checkme("F-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-05" <?php checkme("F-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-06" <?php checkme("F-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-07" <?php checkme("F-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-08" <?php checkme("F-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-09" <?php checkme("F-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="F-10" <?php checkme("F-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>G</td>
-                               <td><input type="checkbox" name="seats[]" value="G-01" <?php checkme("G-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-02" <?php checkme("G-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-03" <?php checkme("G-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-04" <?php checkme("G-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-05" <?php checkme("G-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-06" <?php checkme("G-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-07" <?php checkme("G-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-08" <?php checkme("G-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-09" <?php checkme("G-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="G-10" <?php checkme("G-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-01" <?php checkme("G-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-02" <?php checkme("G-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-03" <?php checkme("G-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-04" <?php checkme("G-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-05" <?php checkme("G-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-06" <?php checkme("G-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-07" <?php checkme("G-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-08" <?php checkme("G-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-09" <?php checkme("G-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="G-10" <?php checkme("G-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>H</td>
-                               <td><input type="checkbox" name="seats[]" value="H-01" <?php checkme("H-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-02" <?php checkme("H-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-03" <?php checkme("H-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-04" <?php checkme("H-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-05" <?php checkme("H-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-06" <?php checkme("H-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-07" <?php checkme("H-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-08" <?php checkme("H-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-09" <?php checkme("H-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="H-10" <?php checkme("H-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-01" <?php checkme("H-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-02" <?php checkme("H-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-03" <?php checkme("H-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-04" <?php checkme("H-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-05" <?php checkme("H-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-06" <?php checkme("H-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-07" <?php checkme("H-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-08" <?php checkme("H-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-09" <?php checkme("H-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="H-10" <?php checkme("H-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>I</td>
-                               <td><input type="checkbox" name="seats[]" value="I-01" <?php checkme("I-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-02" <?php checkme("I-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-03" <?php checkme("I-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-04" <?php checkme("I-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-05" <?php checkme("I-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-06" <?php checkme("I-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-07" <?php checkme("I-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-08" <?php checkme("I-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-09" <?php checkme("I-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="I-10" <?php checkme("I-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-01" <?php checkme("I-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-02" <?php checkme("I-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-03" <?php checkme("I-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-04" <?php checkme("I-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-05" <?php checkme("I-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-06" <?php checkme("I-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-07" <?php checkme("I-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-08" <?php checkme("I-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-09" <?php checkme("I-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="I-10" <?php checkme("I-10",$athulcomma); ?>></td>
                            </tr>
                            <tr>
                                <td>J</td>
-                               <td><input type="checkbox" name="seats[]" value="J-01" <?php checkme("J-01",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-02" <?php checkme("J-02",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-03" <?php checkme("J-03",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-04" <?php checkme("J-04",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-05" <?php checkme("J-05",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-06" <?php checkme("J-06",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-07" <?php checkme("J-07",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-08" <?php checkme("J-08",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-09" <?php checkme("J-09",$ajaycomma); ?>></td>
-                               <td><input type="checkbox" name="seats[]" value="J-10" <?php checkme("J-10",$ajaycomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-01" <?php checkme("J-01",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-02" <?php checkme("J-02",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-03" <?php checkme("J-03",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-04" <?php checkme("J-04",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-05" <?php checkme("J-05",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-06" <?php checkme("J-06",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-07" <?php checkme("J-07",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-08" <?php checkme("J-08",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-09" <?php checkme("J-09",$athulcomma); ?>></td>
+                               <td><input type="checkbox" name="seats[]" value="J-10" <?php checkme("J-10",$athulcomma); ?>></td>
                            </tr>
                        </table>
                        <input class="btn btn-success" type="submit" name="submit" style="margin:10px;">

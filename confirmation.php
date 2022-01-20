@@ -49,7 +49,7 @@
 
                 <div class="card text-center">
                     <div class="card-header text-success">
-                       <b> Booked!</b>
+                       <b>Ticket Reservation Success</b>
                     </div>
                     <div class="card-body text-left">
                         <h5 class="card-title"><b>Your ID  :</b> <?php echo $userToken; ?></h5>
@@ -76,7 +76,6 @@
                     </div>
                  </div>
                  <br>
-                   <h6 style="color: white; text-align:center;">Scroll Down</h6>
             </div>
             <div class="col-md-4"></div>
 
@@ -86,20 +85,18 @@
            
 
 
-        <!-- Google Maps and Rating  -->
-        <div class="container" >
+        <!-- Google Maps and Rating 
+            <div class="container" >
             <div class="row" style="margin-top: 40px;">
                 <div class="col-6" >
-                    <!-- Direction  -->
                     <h6>Our Location</h6>
                     <hr style="border:#464E59 solid 0.5px">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.5037891532716!2d77.56493271133647!3d12.907234036298286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae14b1d3b5bc97%3A0x201eccba58e7911b!2sDayananda%20Sagar%20University!5e0!3m2!1sen!2sin!4v1588522288123!5m2!1sen!2sin" 
                         width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-                </div>
+                </div> -->
 
-                <div class="col-6">
-                        <!-- Feedback  -->
+                <!-- <div class="col-6">    
                         <h6>Feedback</h6>
                         <hr style="border:#464E59 solid 0.5px">
                         <medium>A little feedback helps us a lot. Share your booking experience with us.</medium>
@@ -130,12 +127,7 @@
                 </div>
 
             </div> 
-        </div>
-        
-              
-        
-
-        
+        </div> -->
     </body>
-<?php include('footer.php');?>
+
 </html>

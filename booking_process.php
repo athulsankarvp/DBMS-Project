@@ -2,17 +2,6 @@
 <!-- Booking process has been moved to selectseat  -->
 
 
-
-
-
-
-
-
-
-
-
-
-
 <?php 
 
 session_start();
