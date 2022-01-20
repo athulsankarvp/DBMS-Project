@@ -248,6 +248,5 @@ if(isset($_POST['submit'])){
                 <div class="col"></div>
             </div>
         </div>
-        <?php include('footer.php'); ?>
     </body>
 </html>

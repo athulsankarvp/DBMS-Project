@@ -1,5 +1,5 @@
 .header{
-    background-color:#023E73;
+    background-color:#000000;
    padding-top: 10px;
    padding-bottom: 10px;
     
@@ -75,14 +75,6 @@ hr {
     border-width: 1px; */
     border: 0.5px solid;
     border-color: white;
-}
-
-
-.footer{
-    background-color:rgb(12, 79, 138);
-    padding-top: 5px;
-    padding-bottom: 1px;
-    margin-top: 25px;
 }
 
 #footer_text{

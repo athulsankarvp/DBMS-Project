@@ -328,7 +328,5 @@ if(!isset($_SESSION['user']))
 
 
 
-        <?php include('footer.php')?>
-
     </body>
 </html>

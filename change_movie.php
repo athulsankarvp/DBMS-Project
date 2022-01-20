@@ -43,24 +43,10 @@
                                     </div>
                                 </div>
                             </div>
-                            
-
-                            
-                        
-                            
-                            
-
-                            <div class="form-group">
-                                
-                                <input required type="text" class="form-control" id="movie_trailer" placeholder="Enter Trailer Link" name="movie_trailer">
-                            </div>
+                                                      
                             <div class="form-group">
                                 
                                 <input required type="text" class="form-control" id="movie_des" placeholder="Enter Poster Link" name="movie_poster">
-                            </div>
-                            <div class="form-group">
-                                
-                                <textarea required maxlength="250" type="text" class="form-control" id="movie_des" placeholder="Enter Movie Description" name="movie_des"></textarea>
                             </div>
 
                             <div class="for-group">
