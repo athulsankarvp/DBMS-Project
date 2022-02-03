@@ -80,54 +80,7 @@
             <div class="col-md-4"></div>
 
         </div>
-     
         
-           
-
-
-        <!-- Google Maps and Rating 
-            <div class="container" >
-            <div class="row" style="margin-top: 40px;">
-                <div class="col-6" >
-                    <h6>Our Location</h6>
-                    <hr style="border:#464E59 solid 0.5px">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.5037891532716!2d77.56493271133647!3d12.907234036298286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae14b1d3b5bc97%3A0x201eccba58e7911b!2sDayananda%20Sagar%20University!5e0!3m2!1sen!2sin!4v1588522288123!5m2!1sen!2sin" 
-                        width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-                </div> -->
-
-                <!-- <div class="col-6">    
-                        <h6>Feedback</h6>
-                        <hr style="border:#464E59 solid 0.5px">
-                        <medium>A little feedback helps us a lot. Share your booking experience with us.</medium>
-                        <div class="text-center">
-                        
-                            <form  action="feedback_process.php" method="POST">
-                            
-
-                                <table>
-                                    <tr>
-                                        
-                                        <td><span style="color:red">Very Bad</span><input type="radio" name=rating value="1"></td>
-                                        <td><span style="color:orange">Bad</span><input type="radio" name=rating value="2"></td>
-                                        <td><span style="color:#d2ee00">Good</span><input type="radio" name=rating value="3"></td>
-                                        <td><span style="color:lightgreen">Very Good</span><input type="radio" name=rating value="4"></td>
-                                        <td><span style="color:green">Excellent</span><input type="radio" name=rating value="5"></td>
-                                    </tr>
-                                </table>
-                                
-                                
-                                <textarea maxlength="150" placeholder="Feedback" class="form-control" rows="3" name="feedbackForm"></textarea>
-                                <input style="float: right; margin-top:10px; width:100%;" type="submit" name="feedback_submit" class="btn btn-sm  btn-outline-primary">
-                            </form>
-
-                        </div>
-                        
-                        
-                </div>
-
-            </div> 
-        </div> -->
     </body>
 
 </html>
